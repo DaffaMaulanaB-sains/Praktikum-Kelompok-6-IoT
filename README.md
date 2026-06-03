@@ -23,4 +23,13 @@ Folder ini berisi project pembacaan sensor DHT11 menggunakan board ESP8266. Data
 Folder ini berisi dokumen desain sistem sensor yang disusun sebagai pengganti ETS. Isi folder mencakup file PDF utama beserta diagram atau file pendukung lain yang menjelaskan rancangan sistem, alur kerja, dan komponen yang digunakan.
 
 ### 4. `04-Project-UAS-Security-Home-System`
--
+Folder ini berisi project UAS Smart Home Security System yang menggunakan ESP32 sebagai mikrokontroler utama dengan sensor ultrasonik HC-SR04 dan sensor suhu DS18B20 Waterproof. Sensor HC-SR04 digunakan untuk mendeteksi keberadaan objek atau intrusi pada area yang dipantau, sedangkan sensor DS18B20 digunakan untuk memantau suhu lingkungan secara real-time.
+
+Sistem dilengkapi dengan buzzer sebagai alarm peringatan ketika intrusi terdeteksi. Selain itu, sistem juga memiliki fitur otomatisasi ventilasi, yaitu membuka jendela secara otomatis menggunakan servo motor ketika suhu lingkungan melebihi batas yang telah ditentukan. Seluruh data sensor dan status sistem dapat dipantau melalui aplikasi Blynk sehingga pengguna dapat menerima informasi dan notifikasi secara real-time melalui smartphone.
+
+Isi Folder:
+
+Source Code: Kode program untuk menghubungkan ESP32 dengan sensor HC-SR04, sensor DS18B20, servo motor, buzzer, dan aplikasi Blynk.
+Dokumentasi Pengujian: Hasil pengujian sistem keamanan dan monitoring suhu, termasuk pengujian alarm, notifikasi, dan mekanisme buka-tutup jendela otomatis.
+Rangkaian Hardware: Diagram dan penjelasan koneksi antara ESP32, HC-SR04, DS18B20, servo motor, buzzer, dan komponen pendukung lainnya.
+Desain Sistem: Penjelasan alur kerja sistem, flowchart, serta logika deteksi intrusi dan kontrol ventilasi otomatis.
