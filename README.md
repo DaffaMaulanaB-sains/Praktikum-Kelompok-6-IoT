@@ -17,9 +17,10 @@ Repository ini merupakan dokumentasi dari berbagai hasil praktikum dan tugas kel
 Folder ini memuat proyek demonstrasi pemanfaatan layar OLED SSD1306 pada mikrokontroler. Di dalamnya terdapat kode program, dokumentasi hasil pengujian, serta berbagai file pendukung yang digunakan untuk menampilkan data maupun teks pada display OLED.
 
 ### 2. `02-Bacaan-Sensor-DHT-Melalui-WiFi`
--
+Folder ini berisi project pembacaan sensor DHT11 menggunakan board ESP8266. Data suhu dan kelembapan ditampilkan pada OLED serta dapat diakses melalui web server. Folder ini memuat source code, dokumentasi hasil tampilan web, dan rangkaian hardware.
 
 ### 3. `03-Desain-Sistem-Sensor (ETS)`
--
-### 4. `04-Project-UAS-Smart-Garden-Monitoring-System`
+Folder ini berisi dokumen desain sistem sensor yang disusun sebagai pengganti ETS. Isi folder mencakup file PDF utama beserta diagram atau file pendukung lain yang menjelaskan rancangan sistem, alur kerja, dan komponen yang digunakan.
+
+### 4. `04-Project-UAS-Security-Home-System`
 -
