@@ -29,7 +29,7 @@ Sistem dilengkapi dengan buzzer sebagai alarm peringatan ketika intrusi terdetek
 
 Isi Folder:
 
-Source Code: Kode program untuk menghubungkan ESP32 dengan sensor HC-SR04, sensor DS18B20, servo motor, buzzer, dan aplikasi Blynk.
-Dokumentasi Pengujian: Hasil pengujian sistem keamanan dan monitoring suhu, termasuk pengujian alarm, notifikasi, dan mekanisme buka-tutup jendela otomatis.
-Rangkaian Hardware: Diagram dan penjelasan koneksi antara ESP32, HC-SR04, DS18B20, servo motor, buzzer, dan komponen pendukung lainnya.
-Desain Sistem: Penjelasan alur kerja sistem, flowchart, serta logika deteksi intrusi dan kontrol ventilasi otomatis.
+- Source Code: Kode program untuk menghubungkan ESP32 dengan sensor HC-SR04, sensor DS18B20, servo motor, buzzer, dan aplikasi Blynk.
+- Dokumentasi Pengujian: Hasil pengujian sistem keamanan dan monitoring suhu, termasuk pengujian alarm, notifikasi, dan mekanisme buka-tutup jendela otomatis.
+- Rangkaian Hardware: Diagram dan penjelasan koneksi antara ESP32, HC-SR04, DS18B20, servo motor, buzzer, dan komponen pendukung lainnya.
+- Desain Sistem: Penjelasan alur kerja sistem, flowchart, serta logika deteksi intrusi dan kontrol ventilasi otomatis.
