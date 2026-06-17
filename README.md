@@ -3,7 +3,7 @@
 ## UPN Veteran Jawa Timur
 **Mata Kuliah:** Internet of Things B083
 
-## Disusun oleh Kelompok 2
+## Disusun oleh Kelompok 6
 1. Hafizh Akbar Azzadhani — 23083010069  
 2. Aditya Febri Pratama — 23083010096  
 3. Radithya Hylmi Maulana Putra — 23083010083  
